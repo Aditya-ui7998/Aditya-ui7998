@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Aditya-ui7998
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning javascript.
+- 👋 Hi, I’m @Aditya-ui79,tech enthusiast.Development is fun.
 - 📫 How to reach me - @adityakashyap7998(INSTAGRAM).
 
 <!---
